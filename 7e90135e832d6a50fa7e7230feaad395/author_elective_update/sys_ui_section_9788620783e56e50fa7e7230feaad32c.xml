@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="9788620783e56e50fa7e7230feaad32c" sys_domain="global" table="x_1755686_test_dev_device" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display_name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_id>df88620783e56e50fa7e7230feaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_id>d788620783e56e50fa7e7230feaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model_category</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_id>df88620783e56e50fa7e7230feaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_id>df88620783e56e50fa7e7230feaad330</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_id>d788620783e56e50fa7e7230feaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ci</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_id>d788620783e56e50fa7e7230feaad331</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_id>d788620783e56e50fa7e7230feaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active_to</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_id>df88620783e56e50fa7e7230feaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_id>d788620783e56e50fa7e7230feaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1755686_test_dev_device</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9788620783e56e50fa7e7230feaad32c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755686_test_dev_device</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+            <sys_update_name>sys_ui_section_9788620783e56e50fa7e7230feaad32c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test device">7e90135e832d6a50fa7e7230feaad395</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>sys_ui_section_9788620783e56e50fa7e7230feaad32c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="9788620783e56e50fa7e7230feaad32c" sys_domain="global" table="x_1755686_test_dev_device" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>display_name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_id>df88620783e56e50fa7e7230feaad32d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_id>d788620783e56e50fa7e7230feaad330</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>model_category</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_id>df88620783e56e50fa7e7230feaad32e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>model</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_id>df88620783e56e50fa7e7230feaad330</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_id>d788620783e56e50fa7e7230feaad32f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>ci</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_id>d788620783e56e50fa7e7230feaad331</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>quantity</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_id>d788620783e56e50fa7e7230feaad32d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>active_to</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_id>df88620783e56e50fa7e7230feaad32f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_id>d788620783e56e50fa7e7230feaad32e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1755686_test_dev_device" sys_domain="global" view="Default view">9788620783e56e50fa7e7230feaad32c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1755686_test_dev_device</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 06:22:21</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9788620783e56e50fa7e7230feaad32c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1755686_test_dev_device</sys_name><sys_overrides/><sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package><sys_policy/><sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope><sys_update_name>sys_ui_section_9788620783e56e50fa7e7230feaad32c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 06:22:21</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-550957004</payload_hash>
+        <record_name>Device</record_name>
+        <reverted_from/>
+        <source>fe90135e832d6a50fa7e7230feaad399</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+        <sys_id>2388620783e56e50fa7e7230feaad334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f181dd1c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>a7886207a1e56e50f32533d4f8051633</update_guid>
+        <update_guid_history>a7886207a1e56e50f32533d4f8051633:-550957004</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 06:49:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>3f8c2127985c4445a4eeb885ce546269</sys_id>
+        <sys_metadata>9788620783e56e50fa7e7230feaad32c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755686_test_dev_device</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_parent display_value="">a9839f9683ad6a50fa7e7230feaad38f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_scope_delete display_value="">098448efc10641a0a3b5e292d7e8b040</sys_scope_delete>
+        <sys_update_name>sys_ui_section_9788620783e56e50fa7e7230feaad32c</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_9788620783e56e50fa7e7230feaad32c">2388620783e56e50fa7e7230feaad334</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 06:49:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

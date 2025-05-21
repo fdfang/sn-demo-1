@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="a9839f9683ad6a50fa7e7230feaad38f" extends="alm_asset" label="Device" max_length="40" name="x_1755686_test_dev_device" type="collection"/>
-</database>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description>This event is fired for complete the employee onboarding</description>
+        <event_name>x_1755686_test_dev.completeOnboard</event_name>
+        <fired_by>Script Execution - Complete Onboard</fired_by>
+        <priority>100</priority>
+        <queue/>
+        <suffix>completeOnboard</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:08:27</sys_created_on>
+        <sys_id>1360c34783696e50fa7e7230feaad3ed</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_1755686_test_dev.completeOnboard</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_update_name>sysevent_register_1360c34783696e50fa7e7230feaad3ed</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:30:53</sys_updated_on>
+        <table>x_1755686_test_dev_test_computer</table>
+    </sysevent_register>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test device">7e90135e832d6a50fa7e7230feaad395</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>sysevent_register_1360c34783696e50fa7e7230feaad3ed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><derived_priority>100</derived_priority><description>This event is fired for complete the employee onboarding</description><event_name>x_1755686_test_dev.completeOnboard</event_name><fired_by>Script Execution - Complete Onboard</fired_by><priority>100</priority><queue/><suffix>completeOnboard</suffix><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 08:08:27</sys_created_on><sys_id>1360c34783696e50fa7e7230feaad3ed</sys_id><sys_mod_count>3</sys_mod_count><sys_name>x_1755686_test_dev.completeOnboard</sys_name><sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package><sys_policy/><sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope><sys_update_name>sysevent_register_1360c34783696e50fa7e7230feaad3ed</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 08:30:53</sys_updated_on><table>x_1755686_test_dev_test_computer</table></sysevent_register></record_update>]]></payload>
+        <payload_hash>-633803803</payload_hash>
+        <record_name>x_1755686_test_dev.completeOnboard</record_name>
+        <reverted_from/>
+        <source>7fceea0f83e56e50fa7e7230feaad35c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 08:30:53</sys_created_on>
+        <sys_id>0af5cf8783696e50fa7e7230feaad366</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f1f788100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 08:30:53</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>8ef5cf8743696e5056c06d8b05fa5065</update_guid>
+        <update_guid_history>8ef5cf8743696e5056c06d8b05fa5065:-633803803,eea58bcb75696e506cbdd882acc4b17a:1545155275,520107078e696e504ad467406f255b01:-122191881,61d0cf0778696e505bd19961eacc225d:2051068717</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 09:14:16</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>450854347f6e4c7aa081c0639470e664</sys_id>
+        <sys_metadata>1360c34783696e50fa7e7230feaad3ed</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755686_test_dev.completeOnboard</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_parent display_value="Test computer">4dea571283ed6a50fa7e7230feaad3da</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_scope_delete display_value="">098448efc10641a0a3b5e292d7e8b040</sys_scope_delete>
+        <sys_update_name>sysevent_register_1360c34783696e50fa7e7230feaad3ed</sys_update_name>
+        <sys_update_version display_value="sysevent_register_1360c34783696e50fa7e7230feaad3ed">0af5cf8783696e50fa7e7230feaad366</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 09:14:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
