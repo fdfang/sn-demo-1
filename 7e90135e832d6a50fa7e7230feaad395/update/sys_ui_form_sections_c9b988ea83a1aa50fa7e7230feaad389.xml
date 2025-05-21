@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="c9b988ea83a1aa50fa7e7230feaad389" sys_domain="global" table="x_1755686_test_dev_test_computer" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdb988ea83a1aa50fa7e7230feaad3b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_test_computer" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">c9b988ea83a1aa50fa7e7230feaad389</sys_ui_form>
+            <sys_ui_section caption="Key Attributes" display_value="Key Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">09b988ea83a1aa50fa7e7230feaad3a9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89b988ea83a1aa50fa7e7230feaad395</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_test_computer" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">c9b988ea83a1aa50fa7e7230feaad389</sys_ui_form>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89b988ea83a1aa50fa7e7230feaad3a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_test_computer" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">c9b988ea83a1aa50fa7e7230feaad389</sys_ui_form>
+            <sys_ui_section caption="Discovery Attributes" display_value="Discovery Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">41b988ea83a1aa50fa7e7230feaad39a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4db988ea83a1aa50fa7e7230feaad3cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_test_computer" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">c9b988ea83a1aa50fa7e7230feaad389</sys_ui_form>
+            <sys_ui_section caption="Operational Attributes" display_value="Operational Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">c1b988ea83a1aa50fa7e7230feaad3b8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:23</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4db988ea83a1aa50fa7e7230feaad399</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_test_computer" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">c9b988ea83a1aa50fa7e7230feaad389</sys_ui_form>
+            <sys_ui_section caption="Domain Separation Attributes" display_value="Domain Separation Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">8db988ea83a1aa50fa7e7230feaad395</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05b988ea83a1aa50fa7e7230feaad3a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_test_computer" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">c9b988ea83a1aa50fa7e7230feaad389</sys_ui_form>
+            <sys_ui_section caption="More Attributes" display_value="More Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">8db988ea83a1aa50fa7e7230feaad3a0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1755686_test_dev_test_computer</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9b988ea83a1aa50fa7e7230feaad389</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755686_test_dev_test_computer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+            <sys_update_name>sys_ui_form_sections_c9b988ea83a1aa50fa7e7230feaad389</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <view display_value="CMDB - Workspace" name="cmdb_browse">2713005f537320100764ddeeff7b1269</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

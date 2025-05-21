@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request devices">d4f1df1683ad6a50fa7e7230feaad392</sc_cat_item>
+        <sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 02:43:07</sys_created_on>
+        <sys_id>503323da83ed6a50fa7e7230feaad3c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.Request devices</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_update_name>sc_cat_item_category_503323da83ed6a50fa7e7230feaad3c3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 02:43:07</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test device">7e90135e832d6a50fa7e7230feaad395</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>sc_cat_item_category_503323da83ed6a50fa7e7230feaad3c3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request devices">d4f1df1683ad6a50fa7e7230feaad392</sc_cat_item><sc_category display_value="Laptops">59f586f23731300054b6a3549dbe5db7</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-19 02:43:07</sys_created_on><sys_id>503323da83ed6a50fa7e7230feaad3c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Laptops.Request devices</sys_name><sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package><sys_policy/><sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope><sys_update_name>sc_cat_item_category_503323da83ed6a50fa7e7230feaad3c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-19 02:43:07</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>299703362</payload_hash>
+        <record_name>Laptops.Request devices</record_name>
+        <reverted_from/>
+        <source>fe90135e832d6a50fa7e7230feaad399</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 02:43:07</sys_created_on>
+        <sys_id>143323da83ed6a50fa7e7230feaad3c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196e66c6c060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 02:43:07</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>d43323dae7ed6a5082d75e07e67834c6</update_guid>
+        <update_guid_history>d43323dae7ed6a5082d75e07e67834c6:299703362</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Laptops.Request devices">4f43d82a83e1aa50fa7e7230feaad3c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 06:13:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>c0c649be2e9946b88c6ec709b066d690</sys_id>
+        <sys_metadata>503323da83ed6a50fa7e7230feaad3c3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Laptops.Request devices</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_scope_delete display_value="">098448efc10641a0a3b5e292d7e8b040</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_503323da83ed6a50fa7e7230feaad3c3</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_503323da83ed6a50fa7e7230feaad3c3">143323da83ed6a50fa7e7230feaad3c7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 06:13:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

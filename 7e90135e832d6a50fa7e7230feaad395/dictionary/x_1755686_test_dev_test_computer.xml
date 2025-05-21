@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4dea571283ed6a50fa7e7230feaad3da" extends="cmdb_ci_computer" label="Test computer" max_length="40" name="x_1755686_test_dev_test_computer" type="collection"/>
+</database>

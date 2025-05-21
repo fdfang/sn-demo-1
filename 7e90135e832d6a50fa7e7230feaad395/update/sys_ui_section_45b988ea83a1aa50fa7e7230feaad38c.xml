@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Configuration Attributes" section_id="45b988ea83a1aa50fa7e7230feaad38c" sys_domain="global" table="x_1755686_test_dev_test_computer" version="3" view="cmdb_browse">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>05b988ea83a1aa50fa7e7230feaad392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os_domain</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>85b988ea83a1aa50fa7e7230feaad38d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>8db988ea83a1aa50fa7e7230feaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os_version</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>01b988ea83a1aa50fa7e7230feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os_service_pack</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>81b988ea83a1aa50fa7e7230feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dns_domain</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>0db988ea83a1aa50fa7e7230feaad38d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disk_space</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>05b988ea83a1aa50fa7e7230feaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>85b988ea83a1aa50fa7e7230feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ram</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>09b988ea83a1aa50fa7e7230feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_manufacturer</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>81b988ea83a1aa50fa7e7230feaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_type</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>89b988ea83a1aa50fa7e7230feaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_speed</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>0db988ea83a1aa50fa7e7230feaad390</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_count</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>8db988ea83a1aa50fa7e7230feaad391</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_core_count</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>09b988ea83a1aa50fa7e7230feaad38e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration Attributes" display_value="Configuration Attributes" name="x_1755686_test_dev_test_computer" sys_domain="global" view="2713005f537320100764ddeeff7b1269">45b988ea83a1aa50fa7e7230feaad38c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Configuration Attributes</caption>
+            <header>false</header>
+            <name>x_1755686_test_dev_test_computer</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45b988ea83a1aa50fa7e7230feaad38c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755686_test_dev_test_computer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+            <sys_update_name>sys_ui_section_45b988ea83a1aa50fa7e7230feaad38c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="CMDB - Workspace" name="cmdb_browse">2713005f537320100764ddeeff7b1269</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

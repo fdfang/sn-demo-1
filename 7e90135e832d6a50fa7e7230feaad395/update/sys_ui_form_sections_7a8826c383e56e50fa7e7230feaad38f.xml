@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7a8826c383e56e50fa7e7230feaad38f" sys_domain="global" table="x_1755686_test_dev_device" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1788220783e56e50fa7e7230feaad3fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_device" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">7a8826c383e56e50fa7e7230feaad38f</sys_ui_form>
+            <sys_ui_section caption="Asset Details" display_value="Asset Details" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">0788220783e56e50fa7e7230feaad3c6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f88220783e56e50fa7e7230feaad3c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_device" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">7a8826c383e56e50fa7e7230feaad38f</sys_ui_form>
+            <sys_ui_section caption="Financial" display_value="Financial" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">0f88220783e56e50fa7e7230feaad3bd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0f88220783e56e50fa7e7230feaad3b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_device" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">7a8826c383e56e50fa7e7230feaad38f</sys_ui_form>
+            <sys_ui_section caption="Contracts" display_value="Contracts" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">4b8826c383e56e50fa7e7230feaad395</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df88620783e56e50fa7e7230feaad301</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_device" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">7a8826c383e56e50fa7e7230feaad38f</sys_ui_form>
+            <sys_ui_section caption="Activities" display_value="Activities" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">9b88220783e56e50fa7e7230feaad3fd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8788220783e56e50fa7e7230feaad3bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1755686_test_dev_device" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">7a8826c383e56e50fa7e7230feaad38f</sys_ui_form>
+            <sys_ui_section caption="Depreciation" display_value="Depreciation" name="x_1755686_test_dev_device" sys_domain="global" view="e53c64d153c230108125ddeeff7b12e3">8788220783e56e50fa7e7230feaad3b6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1755686_test_dev_device</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-21 06:22:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a8826c383e56e50fa7e7230feaad38f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755686_test_dev_device</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7a8826c383e56e50fa7e7230feaad38f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-21 06:22:19</sys_updated_on>
+            <sys_user/>
+            <view display_value="ITAM Workspace" name="itam_workspace">e53c64d153c230108125ddeeff7b12e3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

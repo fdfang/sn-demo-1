@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Configuration" section_id="f4b988ea83a1aa50fa7e7230feaad363" sys_domain="global" table="x_1755686_test_dev_test_computer" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>0db988ea83a1aa50fa7e7230feaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os_domain</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>38b988ea83a1aa50fa7e7230feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>38b988ea83a1aa50fa7e7230feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os_version</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>34b988ea83a1aa50fa7e7230feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>os_service_pack</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>34b988ea83a1aa50fa7e7230feaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dns_domain</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>30b988ea83a1aa50fa7e7230feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>disk_space</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>01b988ea83a1aa50fa7e7230feaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>3cb988ea83a1aa50fa7e7230feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ram</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>81b988ea83a1aa50fa7e7230feaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_manufacturer</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>bcb988ea83a1aa50fa7e7230feaad37d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_type</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>bcb988ea83a1aa50fa7e7230feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_speed</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>b8b988ea83a1aa50fa7e7230feaad37e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_count</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>b8b988ea83a1aa50fa7e7230feaad381</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cpu_core_count</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>b4b988ea83a1aa50fa7e7230feaad37f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>85b988ea83a1aa50fa7e7230feaad382</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>b0b988ea83a1aa50fa7e7230feaad380</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ui_ng_relation_formatter.xml</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_id>09b988ea83a1aa50fa7e7230feaad383</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="CI Relations">b62309137f32310009fedf92bdfa912b</sys_ui_formatter>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="x_1755686_test_dev_test_computer" sys_domain="global" view="Default view">f4b988ea83a1aa50fa7e7230feaad363</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Configuration</caption>
+            <header>false</header>
+            <name>x_1755686_test_dev_test_computer</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-05-19 05:31:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f4b988ea83a1aa50fa7e7230feaad363</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1755686_test_dev_test_computer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+            <sys_update_name>sys_ui_section_f4b988ea83a1aa50fa7e7230feaad363</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-05-19 05:31:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
