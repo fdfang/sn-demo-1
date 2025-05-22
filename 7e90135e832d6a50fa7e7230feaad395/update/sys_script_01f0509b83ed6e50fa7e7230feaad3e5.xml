@@ -15,7 +15,8 @@
         <condition/>
         <description/>
         <execute_function>false</execute_function>
-        <filter_condition table="x_1755686_test_dev_test_computer">assigned_toISNOTEMPTY^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+        <filter_condition table="x_1755686_test_dev_test_computer">assigned_toISNOTEMPTY^reserved=true^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="false" field="reserved" goto="false" newquery="false" operator="=" or="false" value="true"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter_condition>
         <is_rest>false</is_rest>
@@ -30,10 +31,11 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-    gs.info("assign computer happened");
-	// Add your code here
-	gs.eventQueue('x_1755686_test_dev.completeOnboard',current,current.number,gs.getUserName());
-
+	if(!current.assigned_to.nil() && current.assigned_to != previous.assigned_to) {
+		gs.info("assign computer happened");
+		// Add your code here
+		gs.eventQueue('x_1755686_test_dev.completeOnboard',current,current.number,gs.getUserName());
+	}
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -41,7 +43,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>01f0509b83ed6e50fa7e7230feaad3e5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>assignComputer</sys_name>
         <sys_overrides/>
         <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
@@ -49,9 +51,9 @@
         <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
         <sys_update_name>sys_script_01f0509b83ed6e50fa7e7230feaad3e5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-21 14:04:40</sys_updated_on>
+        <sys_updated_on>2025-05-22 06:58:58</sys_updated_on>
         <template/>
-        <when>before</when>
+        <when>after</when>
     </sys_script>
     <sys_translated_text action="delete_multiple" query="documentkey=01f0509b83ed6e50fa7e7230feaad3e5"/>
 </record_update>

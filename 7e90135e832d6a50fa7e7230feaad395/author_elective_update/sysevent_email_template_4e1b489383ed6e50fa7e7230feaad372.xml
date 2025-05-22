@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="DELETE">
+        <collection>x_1755686_test_dev_test_computer</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p>Dear ${assigned_to.name},</p>
+<p>Your onboard process was completed.</p>
+<p>&nbsp;</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Complete onboard</name>
+        <sms_alternate/>
+        <subject>Onboard completed</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 13:38:23</sys_created_on>
+        <sys_id>4e1b489383ed6e50fa7e7230feaad372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Complete onboard</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_update_name>sysevent_email_template_4e1b489383ed6e50fa7e7230feaad372</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 13:38:23</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test device">7e90135e832d6a50fa7e7230feaad395</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>sysevent_email_template_4e1b489383ed6e50fa7e7230feaad372</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sysevent_email_template"&gt;&lt;sysevent_email_template action="INSERT_OR_UPDATE"&gt;&lt;collection&gt;x_1755686_test_dev_test_computer&lt;/collection&gt;&lt;email_layout/&gt;&lt;message/&gt;&lt;message_html&gt;&lt;![CDATA[&lt;p&gt;Dear ${assigned_to.name},&lt;/p&gt;
+&lt;p&gt;Your onboard process was completed.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;]]&gt;&lt;/message_html&gt;&lt;message_list/&gt;&lt;message_text/&gt;&lt;name&gt;Complete onboard&lt;/name&gt;&lt;sms_alternate/&gt;&lt;subject&gt;Onboard completed&lt;/subject&gt;&lt;sys_class_name&gt;sysevent_email_template&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-05-21 13:38:23&lt;/sys_created_on&gt;&lt;sys_id&gt;4e1b489383ed6e50fa7e7230feaad372&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Complete onboard&lt;/sys_name&gt;&lt;sys_package display_value="Test device" source="x_1755686_test_dev"&gt;7e90135e832d6a50fa7e7230feaad395&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Test device"&gt;7e90135e832d6a50fa7e7230feaad395&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_email_template_4e1b489383ed6e50fa7e7230feaad372&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-05-21 13:38:23&lt;/sys_updated_on&gt;&lt;sys_version&gt;2&lt;/sys_version&gt;&lt;/sysevent_email_template&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1559363655</payload_hash>
+        <record_name>Complete onboard</record_name>
+        <reverted_from/>
+        <source>289444d7836d6e50fa7e7230feaad32c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 13:38:23</sys_created_on>
+        <sys_id>ea5c4cdf83ad6e50fa7e7230feaad325</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f3110fa80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 13:38:23</sys_updated_on>
+        <type>Email Template</type>
+        <update_guid>ee5c4cdf2aad6e503f2d055a0d48f224</update_guid>
+        <update_guid_history>ee5c4cdf2aad6e503f2d055a0d48f224:1559363655</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 06:27:11</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_email_template">sysevent_email_template</sys_db_object>
+        <sys_id>3607fa5898f14a8497f3f42cb6b58824</sys_id>
+        <sys_metadata>4e1b489383ed6e50fa7e7230feaad372</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Complete onboard</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_parent display_value="Test computer">4dea571283ed6a50fa7e7230feaad3da</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_scope_delete display_value="">098448efc10641a0a3b5e292d7e8b040</sys_scope_delete>
+        <sys_update_name>sysevent_email_template_4e1b489383ed6e50fa7e7230feaad372</sys_update_name>
+        <sys_update_version display_value="sysevent_email_template_4e1b489383ed6e50fa7e7230feaad372">ea5c4cdf83ad6e50fa7e7230feaad325</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 06:27:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="DELETE">
+        <active>false</active>
+        <condition_script/>
+        <description/>
+        <event_name>x_1755686_test_dev.completeOnboard</event_name>
+        <name>sendEmail</name>
+        <order>100</order>
+        <script/>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 13:14:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>89e680db83ad6e50fa7e7230feaad32a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sendEmail</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_update_name>sysevent_script_action_89e680db83ad6e50fa7e7230feaad32a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 13:14:57</sys_updated_on>
+    </sysevent_script_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test device">7e90135e832d6a50fa7e7230feaad395</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>sysevent_script_action_89e680db83ad6e50fa7e7230feaad32a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action"><sysevent_script_action action="INSERT_OR_UPDATE"><active>false</active><condition_script/><description/><event_name>x_1755686_test_dev.completeOnboard</event_name><name>sendEmail</name><order>100</order><script/><synchronous>false</synchronous><sys_class_name>sysevent_script_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-21 13:14:57</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>89e680db83ad6e50fa7e7230feaad32a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sendEmail</sys_name><sys_overrides/><sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package><sys_policy/><sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope><sys_update_name>sysevent_script_action_89e680db83ad6e50fa7e7230feaad32a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-21 13:14:57</sys_updated_on></sysevent_script_action></record_update>]]></payload>
+        <payload_hash>1825810813</payload_hash>
+        <record_name>sendEmail</record_name>
+        <reverted_from/>
+        <source>289444d7836d6e50fa7e7230feaad32c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 13:14:57</sys_created_on>
+        <sys_id>9bf6c01f83ad6e50fa7e7230feaad3fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f2fb9c460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 13:14:57</sys_updated_on>
+        <type>Script Action</type>
+        <update_guid>9ff6c01fe3ad6e50f92b204b256f00f9</update_guid>
+        <update_guid_history>9ff6c01fe3ad6e50f92b204b256f00f9:1825810813</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 06:52:29</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_script_action">sysevent_script_action</sys_db_object>
+        <sys_id>0207e067df1e471881633e1c45defc99</sys_id>
+        <sys_metadata>89e680db83ad6e50fa7e7230feaad32a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sendEmail</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_scope_delete display_value="">098448efc10641a0a3b5e292d7e8b040</sys_scope_delete>
+        <sys_update_name>sysevent_script_action_89e680db83ad6e50fa7e7230feaad32a</sys_update_name>
+        <sys_update_version display_value="sysevent_script_action_89e680db83ad6e50fa7e7230feaad32a">9bf6c01f83ad6e50fa7e7230feaad3fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 06:52:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

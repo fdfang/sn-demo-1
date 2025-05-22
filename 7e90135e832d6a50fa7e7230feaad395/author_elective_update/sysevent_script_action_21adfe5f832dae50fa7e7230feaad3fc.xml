@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_script_action">
+    <sysevent_script_action action="DELETE">
+        <active>false</active>
+        <condition_script/>
+        <description/>
+        <event_name>activate.life.cycle.migration</event_name>
+        <name>test</name>
+        <order>100</order>
+        <script><![CDATA[var gr = new GlideRecord("sys_user_grmember");
+gr.addQuery("group", "IT Admins");
+gr.query();
+while(gr.next()) {
+    gs.info(gr.user.email);
+}]]></script>
+        <synchronous>false</synchronous>
+        <sys_class_name>sysevent_script_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 02:35:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>21adfe5f832dae50fa7e7230feaad3fc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_update_name>sysevent_script_action_21adfe5f832dae50fa7e7230feaad3fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 02:36:42</sys_updated_on>
+    </sysevent_script_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test device">7e90135e832d6a50fa7e7230feaad395</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>sysevent_script_action_21adfe5f832dae50fa7e7230feaad3fc</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sysevent_script_action"&gt;&lt;sysevent_script_action action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;condition_script/&gt;&lt;description/&gt;&lt;event_name&gt;activate.life.cycle.migration&lt;/event_name&gt;&lt;name&gt;test&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;script&gt;&lt;![CDATA[var gr = new GlideRecord("sys_user_grmember");
+gr.addQuery("group", "IT Admins");
+gr.query();
+while(gr.next()) {
+    gs.info(gr.user.email);
+}]]&gt;&lt;/script&gt;&lt;synchronous&gt;false&lt;/synchronous&gt;&lt;sys_class_name&gt;sysevent_script_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-05-22 02:35:24&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;21adfe5f832dae50fa7e7230feaad3fc&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;test&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Test device" source="x_1755686_test_dev"&gt;7e90135e832d6a50fa7e7230feaad395&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Test device"&gt;7e90135e832d6a50fa7e7230feaad395&lt;/sys_scope&gt;&lt;sys_update_name&gt;sysevent_script_action_21adfe5f832dae50fa7e7230feaad3fc&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-05-22 02:36:42&lt;/sys_updated_on&gt;&lt;/sysevent_script_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1520636619</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>289444d7836d6e50fa7e7230feaad32c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 02:36:43</sys_created_on>
+        <sys_id>fb7ebedf832dae50fa7e7230feaad36d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196f5d9a2c10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 02:36:43</sys_updated_on>
+        <type>Script Action</type>
+        <update_guid>737ebedf922dae50e3cda2e11aa14c6d</update_guid>
+        <update_guid_history>737ebedf922dae50e3cda2e11aa14c6d:1520636619,ec3e3adf712dae50146d5fe10f512a03:986899744</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 06:27:27</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_script_action">sysevent_script_action</sys_db_object>
+        <sys_id>0f27d7a79b1444d4815593507ed56849</sys_id>
+        <sys_metadata>21adfe5f832dae50fa7e7230feaad3fc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_scope_delete display_value="">098448efc10641a0a3b5e292d7e8b040</sys_scope_delete>
+        <sys_update_name>sysevent_script_action_21adfe5f832dae50fa7e7230feaad3fc</sys_update_name>
+        <sys_update_version display_value="sysevent_script_action_21adfe5f832dae50fa7e7230feaad3fc">fb7ebedf832dae50fa7e7230feaad36d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 06:27:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
