@@ -10,7 +10,7 @@
         <conversational_label/>
         <create_roles/>
         <default_html_value/>
-        <default_value>0fe9f2cb83296e50fa7e7230feaad3f2</default_value>
+        <default_value>standard_laptop</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -31,11 +31,11 @@
         <instructions/>
         <layout>normal</layout>
         <list_table/>
-        <lookup_label/>
+        <lookup_label>type_name</lookup_label>
         <lookup_price/>
-        <lookup_table/>
+        <lookup_table>x_1755686_test_dev_device_type</lookup_table>
         <lookup_unique>false</lookup_unique>
-        <lookup_value/>
+        <lookup_value>type_name</lookup_value>
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
@@ -79,18 +79,18 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-21 04:13:44</sys_created_on>
         <sys_id>a04a4ecb83256e50fa7e7230feaad31b</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>8</sys_mod_count>
         <sys_name>Select computer</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
         <sys_update_name>item_option_new_a04a4ecb83256e50fa7e7230feaad31b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-21 07:41:02</sys_updated_on>
+        <sys_updated_on>2025-05-22 05:16:41</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>
-        <type>8</type>
+        <type>5</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
