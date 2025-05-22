@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description>Onboard complete event</description>
+        <event_name>x_1755686_test_dev.completeOnboard</event_name>
+        <fired_by>completeOnboard</fired_by>
+        <priority>100</priority>
+        <queue/>
+        <suffix>completeOnboard</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-21 13:11:27</sys_created_on>
+        <sys_id>26e5c01f83ad6e50fa7e7230feaad3f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1755686_test_dev.completeOnboard</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_update_name>sysevent_register_26e5c01f83ad6e50fa7e7230feaad3f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-21 13:11:27</sys_updated_on>
+        <table>x_1755686_test_dev_test_computer</table>
+    </sysevent_register>
+</record_update>
