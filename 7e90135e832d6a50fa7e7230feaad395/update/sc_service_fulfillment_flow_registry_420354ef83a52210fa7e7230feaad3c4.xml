@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_service_fulfillment_flow_registry">
+    <sc_service_fulfillment_flow_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <service_fulfillment_flow display_value="Device request fulfillment">d14d931783a12210fa7e7230feaad333</service_fulfillment_flow>
+        <sys_class_name>sc_service_fulfillment_flow_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 08:46:11</sys_created_on>
+        <sys_id>420354ef83a52210fa7e7230feaad3c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_update_name>sc_service_fulfillment_flow_registry_420354ef83a52210fa7e7230feaad3c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 08:46:11</sys_updated_on>
+    </sc_service_fulfillment_flow_registry>
+</record_update>

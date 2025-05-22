@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>Device</name>
+        <order/>
+        <roles>x_1755686_test_dev.device_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 01:37:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8c445fd683ad6a50fa7e7230feaad30d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_update_name>sys_ui_application_8c445fd683ad6a50fa7e7230feaad30d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 01:37:49</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test device">7e90135e832d6a50fa7e7230feaad395</application>
+        <file_path/>
+        <instance_id>9863785debec6e5456eafddacad0cd61</instance_id>
+        <instance_name>dev311432</instance_name>
+        <name>sys_ui_application_8c445fd683ad6a50fa7e7230feaad30d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Device</name><order/><roles>x_1755686_test_dev.device_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-19 01:37:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8c445fd683ad6a50fa7e7230feaad30d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Device</sys_name><sys_overrides/><sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package><sys_policy/><sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope><sys_update_name>sys_ui_application_8c445fd683ad6a50fa7e7230feaad30d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-19 01:37:49</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>927662656</payload_hash>
+        <record_name>Device</record_name>
+        <reverted_from/>
+        <source>fe90135e832d6a50fa7e7230feaad399</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-19 01:37:49</sys_created_on>
+        <sys_id>cc445fd683ad6a50fa7e7230feaad310</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196e630a5570000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-19 01:37:49</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>80445fd670ad6a5066fe6dcf789e2e10</update_guid>
+        <update_guid_history>80445fd670ad6a5066fe6dcf789e2e10:927662656</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-22 14:39:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>2b1eec383a624634878397684b8425a4</sys_id>
+        <sys_metadata>8c445fd683ad6a50fa7e7230feaad30d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device</sys_name>
+        <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
+        <sys_scope_delete display_value="">098448efc10641a0a3b5e292d7e8b040</sys_scope_delete>
+        <sys_update_name>sys_ui_application_8c445fd683ad6a50fa7e7230feaad30d</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_8c445fd683ad6a50fa7e7230feaad30d">cc445fd683ad6a50fa7e7230feaad310</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-22 14:39:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

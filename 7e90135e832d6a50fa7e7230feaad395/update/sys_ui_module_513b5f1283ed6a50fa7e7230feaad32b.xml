@@ -3,7 +3,7 @@
         <active>true</active>
         <application display_value="Test computer">193b5f1283ed6a50fa7e7230feaad328</application>
         <filter/>
-        <name>Test computers</name>
+        <name>Computers</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
@@ -14,14 +14,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>513b5f1283ed6a50fa7e7230feaad32b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Test computers</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Computers</sys_name>
         <sys_package display_value="Test device" source="x_1755686_test_dev">7e90135e832d6a50fa7e7230feaad395</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test device">7e90135e832d6a50fa7e7230feaad395</sys_scope>
         <sys_update_name>sys_ui_module_513b5f1283ed6a50fa7e7230feaad32b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-19 02:08:13</sys_updated_on>
+        <sys_updated_on>2025-05-22 14:41:17</sys_updated_on>
         <table>x_1755686_test_dev_test_computer</table>
         <uncancelable>false</uncancelable>
         <view_name/>
